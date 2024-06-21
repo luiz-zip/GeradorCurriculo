@@ -1,0 +1,10 @@
+# Pasta Fonts
+
+Esta pasta contém todos os arquivos de fontes utilizados no projeto. Aqui você encontrará:
+
+- **font-awesome/**: Diretório com os arquivos da biblioteca Font Awesome, que fornece ícones escaláveis.
+- **Linearicons-Free-v1.0.0/**: Diretório com os arquivos dos icons, utilizado no projeto.
+- **montserrat/**: Diretório com os arquivos da fonte MontSerrat, usada em títulos e elementos destacados.
+- **poppins/**: Diretório com os arquivos da fonte Poppins, usada em todo o projeto.
+
+Os arquivos de fontes são organizados para garantir uma fácil integração e uso consistente em todo o projeto. Sinta-se à vontade para explorar e contribuir!
