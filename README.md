@@ -40,8 +40,34 @@ Bem-vindo ao repositório **GeradorCurrículo**! Este projeto é um gerador de c
 - index.php: Página principal com o formulário para inserir dados.
 - gerar_curriculo.php: Script PHP para processar os dados do formulário e gerar o currículo.
 - css/: Diretório contendo arquivos CSS.
+- js/: Diretório contendo arquivos JavaScript.
 - vendor/: Diretório contendo bibliotecas de terceiros (Bootstrap, jQuery, etc.).
 - images/: Diretório contendo imagens usadas no projeto.
+
+## Detalhes das Pastas
+
+- Pasta CSS: Esta pasta contém todos os arquivos CSS necessários para o estilo e layout do projeto. Aqui você encontrará:
+   1. main.css: Arquivo principal de estilos com regras globais e classes reutilizáveis.
+   2. auxiliar.css: Estilos específicos para a segunda página do projeto.
+   3. util.css: Arquivo contendo estilos relacionados ao tema do projeto, incluindo cores, fontes e personalizações de componentes.
+
+- Pasta JS: Esta pasta contém todos os arquivos JavaScript utilizados no projeto. Aqui você encontrará:
+   1. main.js: Arquivo principal com a lógica central do projeto.
+   2. script.js: Arquivo adicional com scripts complementares e funcionalidades específicas.
+
+- Pasta Images: Esta pasta contém todos os arquivos de imagens utilizados no projeto. Aqui você encontrará:
+   1. icons/: Diretório com ícones utilizados na interface do usuário.
+ 
+- Pasta Vendor: Esta pasta contém todas as bibliotecas e dependências de terceiros utilizadas no projeto. Aqui você encontrará:
+   1. animate/: Biblioteca para animações CSS.
+   2. animsition/: Biblioteca para transições de página animadas.
+   3. bootstrap/: Framework CSS e JS para desenvolvimento responsivo e mobile-first.
+   4. countdowntime/: Biblioteca para criação de contadores regressivos.
+   5. css-hamburgers/: Biblioteca para ícones de menu hambúrguer animados.
+   6. daterangepicker/: Biblioteca para seleção de intervalos de datas.
+   7. jquery/: Biblioteca JavaScript para simplificar manipulação de HTML, eventos, animações e AJAX.
+   8. perfect-scrollbar/: Biblioteca para estilização de barras de rolagem.
+   9. select2/: Biblioteca para estilização e melhoramento de elementos de seleção (select).
 
 ## Contribuição
 
