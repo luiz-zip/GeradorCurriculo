@@ -1,0 +1,15 @@
+# Pasta Vendor
+
+Esta pasta contém todas as bibliotecas e dependências de terceiros utilizadas no projeto. Aqui você encontrará:
+
+- **animate/**: Biblioteca para animações CSS.
+- **animsition/**: Biblioteca para transições de página animadas.
+- **bootstrap/**: Framework CSS e JS para desenvolvimento responsivo e mobile-first.
+- **countdowntime/**: Biblioteca para criação de contadores regressivos.
+- **css-hamburgers/**: Biblioteca para ícones de menu hambúrguer animados.
+- **daterangepicker/**: Biblioteca para seleção de intervalos de datas.
+- **jquery/**: Biblioteca JavaScript para simplificar manipulação de HTML, eventos, animações e AJAX.
+- **perfect-scrollbar/**: Biblioteca para estilização de barras de rolagem.
+- **select2/**: Biblioteca para estilização e melhoramento de elementos de seleção (select).
+
+As bibliotecas são organizadas em diretórios para facilitar a localização e a manutenção das dependências do projeto. Sinta-se à vontade para explorar e contribuir!
