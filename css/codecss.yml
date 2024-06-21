@@ -1,0 +1,11 @@
+# Pasta CSS
+
+Esta pasta contém todos os arquivos CSS necessários para o estilo e layout do projeto. Aqui você encontrará:
+
+- **main.css**: Arquivo principal de estilos com regras globais e classes reutilizáveis.
+- **auxiliar.css**: Arquivo secundário utilizado na página de resultado.
+- **util.css**: Arquivo contendo estilos relacionados ao tema do projeto, incluindo cores, fontes e personalizações de componentes.
+
+Os arquivos CSS são organizados para facilitar a manutenção e a escalabilidade do projeto. Sinta-se à vontade para explorar e contribuir!
+
+name: "CodeCss"
